@@ -5,6 +5,6 @@
 
 ## 🛠️ Ferramentas
 
-vscode
-CSS
-HTML
+- vscode
+- CSS
+- HTML
